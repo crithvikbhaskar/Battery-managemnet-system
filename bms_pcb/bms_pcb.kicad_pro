@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "creator": "eeschema",
+    "version": "6.0"
+  },
+  "version": 1,
+  "sheets": [
+    [
+      "00000000-0000-0000-0000-000062a4d3cf",
+      ""
+    ]
+  ],
+  "board": {
+    "design_settings": {
+      "defaults": {
+        "track_width": 0.25,
+        "via_size": 0.6,
+        "via_drill": 0.3,
+        "copper_clearance": 0.2,
+        "min_track_width": 0.15,
+        "min_via_size": 0.4,
+        "min_via_drill": 0.2
+      }
+    }
+  },
+  "schematic": {
+    "drawing": {
+      "text_size": 1.27,
+      "line_width": 0.15
+    }
+  }
+}
